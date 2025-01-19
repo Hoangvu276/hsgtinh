@@ -1,5 +1,5 @@
-# BF Training HSG Tinh THPT Cai Be - Tien Giang
-Training syllabus for ĐT Tỉnh Cái Bè Tiền Giang by **\_\_hoangvu276\_\_**. Prepare for Quang Nam Olympiad in Informatics (2023) and Vietnamese National Olympiad in Informatics (VOI 2024).
+# Training HSG Tỉnh THPT Cái Bè - Tiền Giang
+Training syllabus for ĐT Tỉnh THPT Cái Bè, Tiền Giang by **\_\_hoangvu276\_\_**.
 
 ## Requirements
 
